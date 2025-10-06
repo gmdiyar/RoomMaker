@@ -8,9 +8,6 @@ function add (x,y) {
 
 add(2,x)
 
-function doodoo (doo, dou) {
-    return doo + dou
-}
 //saif is gonna add a function
 
 function laalee(laa,lee){
